@@ -1,0 +1,4 @@
+# Ignorar archivos de compilación
+*.class
+#Ignorar carpetas
+.metadata/
